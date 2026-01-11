@@ -1,0 +1,24 @@
+{
+  "name": "earthquake",
+  "version": "1.0.0",
+  "description": "A EarthQuake Detection Platform for ESP32 sensor data",
+  "main": "websocket-server.js",
+  "scripts": {
+    "start": "node websocket-server.js",
+    "dev": "nodemon websocket-server.js",
+    "client": "node test-client.js",
+    "all-start": "node start-all.js"
+  },
+  "author": "YuXuann",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.14.2",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "winston": "^3.11.0",
+    "pm2": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
