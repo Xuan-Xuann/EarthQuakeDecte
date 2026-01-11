@@ -87,9 +87,9 @@ npm run dev
 
 ## 最终效果
 
-![](C:\Users\31378\AppData\Roaming\Typora\typora-user-images\image-20260111180210384.png)![image-20260111180322188](C:\Users\31378\AppData\Roaming\Typora\typora-user-images\image-20260111180322188.png)
+![](photos\end1.png)
 
-
+![](photos\end2.png)
 
 ## API 端点
 
